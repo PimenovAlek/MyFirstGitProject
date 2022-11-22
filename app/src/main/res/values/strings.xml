@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">My First Git Project</string>
-    <string name="my_first_gitlab_project">My first gitlab project!</string>
 </resources>
